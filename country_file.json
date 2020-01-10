@@ -1,0 +1,1 @@
+[{"name": "india", "countryCode": "91", "states": [{"name": "Kerala", "cities": [{"name": "Thrissur", "code": "680111"}, {"name": "kochi", "code": "680222"}, {"name": "trivandrum", "code": "680333"}]}, {"name": "TamilNadu", "cities": [{"name": "Chennai", "code": "380111"}, {"name": "Coimbatore", "code": "380222"}]}]}]
